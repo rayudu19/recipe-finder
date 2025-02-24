@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "name": "Spaghetti Bolognese",
+      "image": "image1.jpg",
+      "ingredients": ["spaghetti", "ground beef", "tomato sauce"],
+      "preparationTime": 30,
+      "type": "non-vegetarian"
+    },
+    {
+      "id": 2,
+      "name": "Vegetarian Salad",
+      "image": "image3.jpg",
+      "ingredients": ["lettuce", "tomatoes", "cucumber"],
+      "preparationTime": 15,
+      "type": "vegetarian"
+    }
+  ]
+  
